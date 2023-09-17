@@ -1,5 +1,5 @@
-# SimulacionPorComputadora-JahiRivera
+# Simulacion Por Computadora - JahiRivera
 
-Este es el portafolio personal de Jahir Alejandro Rivera Avalos
-\nMateria: Simulacion Por Computadora
-\nCodigo alumno: 220790881
+Este es el portafolio personal de Jahir Alejandro Rivera Avalos.
+<br>Materia: Simulacion Por Computadora
+<br>Codigo alumno: 220790881
